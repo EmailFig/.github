@@ -1,6 +1,6 @@
 # EmailFig
 
-Two things make an email platform tiring. The feature you need is always one plan up, and you keep paying for people who already left. EmailFig fixes both. Every plan has every feature, free included, so automations and segments are never an upgrade. Billing counts only mailable contacts, so an unsubscribe cuts your bill instead of padding it. The free plan runs to 4,000 contacts and 10,000 emails a month. Paid plans start at $6, or $5 if you bring your own Amazon SES account.
+EmailFig is simple email marketing for small teams. Write an email in the drag-and-drop editor or start from one of 200+ templates, then send it. Automations, signup forms, segments and reporting are built in. Every plan includes every feature, the free one too, so you never move up a tier to unlock something. The free plan covers 4,000 contacts and 10,000 emails a month. Paid plans start at $6 a month, or $5 if you bring your own Amazon SES account.
 
 **[emailfig.com](https://emailfig.com)** · [Pricing](https://emailfig.com/pricing) · [Integrations](https://emailfig.com/integrations)
 
